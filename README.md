@@ -31,21 +31,3 @@ Motion blur
 
 ![](assets/motion.png)
 
-## TODO
-
-- [x] Basic
-    - [x] ~~Load SIXD information~~
-    - [x] ~~Generate keypoints~~
-    - [x] ~~Stick image~~
-    - [x] ~~Save annotation~~
-        - [x] ~~Bounding box~~
-        - [x] ~~Pose~~
-        - [x] ~~Keypoints~~
-    - [x] ~~Data augmentation~~
-        - [x] ~~Scale~~
-        - [x] ~~Motion blur~~
-        - [x] ~~Gaussian blur~~
-        - [x] ~~Box blur~~
-- [ ] Advanced
-    - [ ] Lighting
-    - [ ] Texture
